@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62b7b8eb-3f3d-4b82-a3f1-f91f72f76c9e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bool.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/float.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/int64.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nullable.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/string.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/time.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/workflows/test.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,5 +60,17 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="632" y="462" key="#GOROOT/0.0.1680.1050@0.0.1680.1050" timestamp="1602006553291" />
+    <state x="417" y="80" key="CommitChangelistDialog2" timestamp="1602007828796">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="417" y="80" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1602007828796" />
+    <state x="168" y="94" key="DiffContextDialog" timestamp="1602007858493">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="168" y="94" key="DiffContextDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1602007858493" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1602007870946">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1602007870946" />
   </component>
 </project>
